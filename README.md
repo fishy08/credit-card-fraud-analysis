@@ -19,21 +19,11 @@ A fraud data analytics project analysing 284,806 credit card transactions to ide
 ---
 
 ## Project Structure
-credit-card-fraud-analysis/
-│
-├── notebooks/
-│   └── Credit_Card_Fraud_Analysis.ipynb
-├── dashboard/
-│   └── Credit_Card_Fraud_Pattern_Analysis.pdf
-├── charts/
-│   ├── class_distribution.png
-│   ├── amount_distribution.png
-│   ├── fraud_by_hour.png
-│   ├── correlation_matrix.png
-│   ├── v_feature_separation.png
-│   ├── best_model_comparison.png
-│   ├── all_models_f1_precision_recall.png
-│   └── all_models_t3_t8.png
+credit-card-fraud-analysis/  
+├── notebooks/ — Jupyter notebook with full analysis  
+├── dashboard/ — Power BI dashboard PDF  
+├── charts/ — All analysis charts  
+├── sql/ — BigQuery SQL quality check queries  
 └── README.md
 
 ---
