@@ -28,6 +28,7 @@ All three enhanced models exceed the UK Finance 2024 benchmark of 67% recall:
 
 - **[Power BI Dashboard (PDF)](pdf/Credit_Card_Fraud_Analysis_BI.pdf)** — Three-page interactive dashboard covering executive summary, fraud pattern analysis, and model performance comparison
 - **[Full Project Report (PDF)](pdf/Credit_Card_Fraud_Analysis_Report.pdf)** — Detailed report covering all four phases, enhancement methodology, and operational detection rules
+- **[Presentation (PDF)](pdf/Credit_Card_Fraud_Analysis_ppt.pdf)** — 14-slide presentation covering all four project phases, model architecture, hard flag design, enhancement methodology, and final results with operational detection rules
 - **[SQL Queries](sql/)** — Five BigQuery quality check queries (P1_Q01 to P1_Q05)
 - **[Charts](charts/)** — Complete chart library from Phase 2 EDA and Phase 3 model analysis
 
