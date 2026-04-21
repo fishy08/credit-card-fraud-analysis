@@ -1,6 +1,6 @@
 # Credit Card Fraud Pattern Analysis: A Detection-Led Approach
 
-**Peter Francis Muthukkalai** | Google Data Analytics Professional Certificate Portfolio | April 2026
+**Peter Francis Muthukkalai**| April 2026
 
 ---
 
