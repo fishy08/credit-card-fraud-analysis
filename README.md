@@ -109,4 +109,3 @@ The Worldline/ULB dataset does not explicitly confirm Card Not Present (CNP) tra
 
 ---
 
-*Google Data Analytics Professional Certificate Portfolio — April 2026*
